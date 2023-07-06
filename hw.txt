@@ -1,0 +1,19 @@
+HW
+
+1) Create three tables : orders , clients , food
+2) Create following classes : Client , Order , Dish
+3) Clients must have following attributes : id(AUTOINCREMENT),
+name , surname , coins
+4) Order must have following attributes : id(AUTOINCREMENT),
+client_id , dish_id
+5) Food must have following attributes :
+id(AUTOINCREMENT), label , cost
+
+PRACTICE
+
+Chess board
+
+   # # # #
+    # # #
+   # # # #
+    # # #
